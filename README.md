@@ -21,7 +21,7 @@ TrueNAS is like a digital home for your files, keeping them secure and ready whe
 
 - Supports Active Directory, LDAP, NIS, and Kerberos authentication.
 
-Cloud sync to Amazon S3, Backblaze B2, Box, Dropbox, FTP, Google Cloud Storage, Google Drive, HTTP, Hubic, Mega, Microsoft Azure Blob Storage, Microsoft OneDrive, OpenStack Swift, pCloud, SFTP, WebDAV, and Yandex.
+- Cloud sync to Amazon S3, Backblaze B2, Box, Dropbox, FTP, Google Cloud Storage, Google Drive, HTTP, Hubic, Mega, Microsoft Azure Blob Storage, Microsoft OneDrive, OpenStack Swift, pCloud, SFTP, WebDAV, and Yandex.
 
 - It checksums your data whenever it is written and verifies those checksums when data is read. It even checksums the metadata that describes the file system and allows you to periodically verify all checksums to determine if infrequently used data or backups are suffering from silent data corruption.
 
