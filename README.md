@@ -13,19 +13,19 @@ TrueNAS is like a digital home for your files, keeping them secure and ready whe
 
 ## Features of TrueNAS
 
-Free and open source
+- Free and open source
 
-Built with OpenZFS file system for built-in RAID, data management tools, and automatic detection and repair of silent data corruption.
+- Built with OpenZFS file system for built-in RAID, data management tools, and automatic detection and repair of silent data corruption.
 
-Supports Snapshots and VMWare Snapshots and It supports BSD Jails for creating virtual machines.
+- Supports Snapshots and VMWare Snapshots and It supports BSD Jails for creating virtual machines.
 
-Supports Active Directory, LDAP, NIS, and Kerberos authentication.
+- Supports Active Directory, LDAP, NIS, and Kerberos authentication.
 
 Cloud sync to Amazon S3, Backblaze B2, Box, Dropbox, FTP, Google Cloud Storage, Google Drive, HTTP, Hubic, Mega, Microsoft Azure Blob Storage, Microsoft OneDrive, OpenStack Swift, pCloud, SFTP, WebDAV, and Yandex.
 
-It checksums your data whenever it is written and verifies those checksums when data is read. It even checksums the metadata that describes the file system and allows you to periodically verify all checksums to determine if infrequently used data or backups are suffering from silent data corruption.
+- It checksums your data whenever it is written and verifies those checksums when data is read. It even checksums the metadata that describes the file system and allows you to periodically verify all checksums to determine if infrequently used data or backups are suffering from silent data corruption.
 
-TrueNAS is fast. It gives you the performance you need with a cache-first design approach that delivers blistering performance from flash memory for your most frequently and recently accessed SAN and NAS data.
+- TrueNAS is fast. It gives you the performance you need with a cache-first design approach that delivers blistering performance from flash memory for your most frequently and recently accessed SAN and NAS data.
 
 ## How to Install TrueNAS ?
 
