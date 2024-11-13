@@ -80,3 +80,9 @@ Restart after installation complete
 9. Once the virtual machine restarts, you can access TrueNAS by opening a web browser and entering the IP address provided during the installation.
 
 ![Capture12](https://github.com/user-attachments/assets/763cf64d-d9be-4336-979f-5978ea9bdcfe)
+
+# TrueNAS Dashboard
+
+Once you login to TrueNAS web UI the following dashboard will appear.
+
+![Capture13](https://github.com/user-attachments/assets/455b0085-9857-4a41-8047-8173d3d12123)
