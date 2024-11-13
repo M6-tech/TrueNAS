@@ -51,7 +51,32 @@ _Download and Install TrueNAS in Virtual Machine_
 
 ![Capture3](https://github.com/user-attachments/assets/68e9f643-09e4-4f99-bd7a-6127a7506510)
 
-7. I will add also 4 Hard Disks "25 GB".
+7. I will add also 4 Hard Disks "25 GB". Now The VM is Ready!!!
 
 ![Capture5](https://github.com/user-attachments/assets/55a0991c-1aa1-4b96-88bb-b226a04aaea2)
 
+8. Start the Virtual Machine.
+
+![](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*rq-UBiqAFXV4ip0wt5fsLw.png)
+
+Select Install and Choose the hard disk where the TrueNAS will be installed.
+
+![Capture6](https://github.com/user-attachments/assets/813e0a02-3af8-42f4-8e68-0879a3f69bf9)
+
+![Capture7](https://github.com/user-attachments/assets/249daa9a-da5b-4444-94f6-9e55ee8f3d9d)
+
+Create a password for the root account.
+
+![Capture8](https://github.com/user-attachments/assets/fc2b8091-4ec5-4580-aeea-4889b8a81b6d)
+
+Select Install via BIOS
+
+![Capture9](https://github.com/user-attachments/assets/0b8c8084-bb37-43c6-bf19-7e25d66c0e10)
+
+Restart after installation complete
+
+![Capture10](https://github.com/user-attachments/assets/1d4a3e26-b36b-4e15-867e-bcc4678234e7)
+
+9. Once the virtual machine restarts, you can access TrueNAS by opening a web browser and entering the IP address provided during the installation.
+
+![Capture12](https://github.com/user-attachments/assets/763cf64d-d9be-4336-979f-5978ea9bdcfe)
