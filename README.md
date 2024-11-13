@@ -29,3 +29,29 @@ TrueNAS is like a digital home for your files, keeping them secure and ready whe
 
 ## How to Install TrueNAS ?
 
+_Download and Install TrueNAS in Virtual Machine_
+
+- In this demonstration, I will use a virtual machine to install TrueNAS.
+
+1. Download TrueNAS ISO — Visit the official TrueNAS website (https://www.truenas.com/download-truenas-core/) and download the latest TrueNAS ISO image.
+
+2. Open VMware Workstation Pro and click on “File” to create a new virtual machine.
+
+![Capture0](https://github.com/user-attachments/assets/abfd6a9e-85af-45d3-b8a2-811d35bf4b54)
+
+4. Give your virtual machine a name (e.g., TrueNas_Core).
+
+![Capture2](https://github.com/user-attachments/assets/ce281614-2900-48be-a76b-556872ff4dcb)
+
+5. Choose “BSD” as the type and “FreeBSD (64-bit)” as the version.
+
+![Capture1](https://github.com/user-attachments/assets/7c44ce25-fa94-41f9-a73e-bbc907c61386)
+
+6. Set a minimum of 25 GB for the virtual hard disk size.
+
+![Capture3](https://github.com/user-attachments/assets/68e9f643-09e4-4f99-bd7a-6127a7506510)
+
+7. I will add also 4 Hard Disks "25 GB".
+
+![Capture5](https://github.com/user-attachments/assets/55a0991c-1aa1-4b96-88bb-b226a04aaea2)
+
